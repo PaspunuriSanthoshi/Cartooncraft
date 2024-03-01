@@ -7,3 +7,6 @@ streamlit==0.81.1
 streamlit_webrtc==0.20.0
 tensorflow
 skimage
+wheel==0.23.0
+Yarg==0.1.9
+docopt==0.6.2
