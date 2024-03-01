@@ -6,3 +6,4 @@ opencv-contrib-python-headless
 streamlit==0.81.1
 streamlit_webrtc==0.20.0
 tensorflow
+skimage
