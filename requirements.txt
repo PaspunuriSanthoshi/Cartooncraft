@@ -1,8 +1,7 @@
 mysql_connector_repackaged==0.3.1
 numpy==1.26.4
 opencv-contrib-python-headless
-Pillow==10.1.0
-Pillow==10.2.0
+Pillow
 skimage==0.0
 streamlit==1.30.0
 streamlit==1.31.1
